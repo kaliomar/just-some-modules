@@ -43,4 +43,4 @@ def daysBetweenDates(year1, month1, day1, year2, month2, day2):
     return days
 
 
-print daysBetweenDates(1990, 12, 19, 2020, 12, 19)
+# print daysBetweenDates(1989, 12, 19, 2018, 3, 27)
