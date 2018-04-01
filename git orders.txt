@@ -1,0 +1,47 @@
+git config --global user.name
+git config --global user.email
+git config --global color.ui auto
+git config --global merge.conflictstyle diff3
+git config --list
+git init
+git clone
+git status
+git log
+git log --oneline
+git log --stat
+git log -p
+git show
+git add
+git commit
+git commit -m "Initial commit"
+git diff
+git tag -a v1.0
+git tag -d v1.0
+git tag -a v1.0 SHA
+git log --decorate
+git branch
+git checkout
+git branch -d sidebar e.g.
+git branch -D sidebar
+git log --online --graph --all
+git reset --hard HEAD^ ----- undo the merge
+git merge
+git commit --amend
+git revert
+git reset
+git reset --mixed
+git reset --soft
+git reset --hard
+git reflog
+git push
+git pull
+git shortlog
+git shortlog -s -n
+git log --author=Paul
+git log --grep=bug
+git remote
+git remote -v
+git remote add + name + a link to source repo.
+git rebase -i HEAD~3
+git push -f
+git rebase (-p,-r,-e,-s,-f,-x,-d)
