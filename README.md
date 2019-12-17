@@ -1,6 +1,6 @@
 # my_modules
 
-# first module "time_formating"
+# First module "time_formating"
 ### this module takes time in seconds and return it in a human readable way ###
 
 ### this module was my answer for a kata on codewars website.
